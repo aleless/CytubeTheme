@@ -426,7 +426,7 @@ return div;
 }
 
 $(document).ready(function() {
-$('<link id="chanfavicon" href="http://i-net.pe/wp-content/uploads/2017/03/cropped-favicon.png=w100-h129-no" type="image/x-icon" rel="shortcut icon" />')
+$('<link id="chanfavicon" href="http://i-net.pe/wp-content/uploads/2017/03/cropped-favicon.png" type="image/x-icon" rel="shortcut icon" />')
 .appendTo("head");});
 
 // The HorizontalScroller Class accepts a jQuery object as its only argument
